@@ -1,4 +1,4 @@
-## em_tm
+## Topic model
 
 Unsupervised topic model that learns via expectation maximization
 
